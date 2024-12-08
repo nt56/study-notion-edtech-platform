@@ -4,10 +4,10 @@
 and rate educational content. The platform is built using the MERN stack, which includes
 ReactJS, NodeJS, MongoDB, and ExpressJS.
 
-− A seamless and interactive learning experience for students, making education
+- A seamless and interactive learning experience for students, making education
 more accessible and engaging.
 
-− A platform for instructors to showcase their expertise and connect with learners
+- A platform for instructors to showcase their expertise and connect with learners
 across the globe.
 
 - In the following sections, we will cover the technical details of the platform, including:
